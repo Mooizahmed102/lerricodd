@@ -2017,7 +2017,7 @@
               </h3>
               <h3
                 data-aos="fade-up"
-                data-aos-duration="1000"
+                data-aos-duration="500"
                 data-aos-delay="200"
               >
                 to see how our readers love it.
