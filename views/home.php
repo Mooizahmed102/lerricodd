@@ -146,7 +146,7 @@
                   data-aos-duration="1000"
                   data-aos-delay="600"
                 >
-                  Let's make the best investment
+                 READ THE CAPTIVATING NOVEL
                 </div>
                 <h1
                   class="display-4 mb-4 text-capitalize"
@@ -154,7 +154,7 @@
                   data-aos-duration="1000"
                   data-aos-delay="650"
                 >
-                  There is no friend as loyal as a book
+                "Four Souls: Captured Inside the Fifth Dimension."
                 </h1>
                 <p
                   class="text-muted mb-5 fs-5"
@@ -162,8 +162,7 @@
                   data-aos-duration="1000"
                   data-aos-delay="700"
                 >
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad
-                  harum quibusdam, assumenda quia explicabo.
+                Go on a thrilling adventure where the line between what's real and what's not starts to blur.
                 </p>
                 <!-- subscription form start -->
                 <form action="assets/subscribe/subscribe.php" id="subscribe">
@@ -256,7 +255,7 @@
                   data-aos="fade-up"
                   data-aos-duration="1000"
                   data-aos-delay="150"
-                  >Why wonted?</span
+                  >Book Features</span
                 >
                 <h2
                   class="display-6"
@@ -264,7 +263,7 @@
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  What you'll achieve by this book
+                What Does The Book Have To Offer You?
                 </h2>
                 <div
                   class="section-divider divider-traingle"
@@ -308,10 +307,9 @@
                       <div class="achieve__icon m-20px-b">
                         <i class="icofont-ebook"></i>
                       </div>
-                      <h3 class="m-15px-b">Experience</h3>
+                      <h3 class="m-15px-b">Science Fiction</h3>
                       <p>
-                        Lorem ipsum dolor sit amet ametus conso tetur ading
-                        elitor fugit piatur iusto provid.
+                      This book ventures into where advanced technology, cosmic exploration, and enigmatic beings from distant galaxies play pivotal roles.
                       </p>
                     </div>
                   </div>
@@ -327,10 +325,9 @@
                       <div class="achieve__icon m-20px-b">
                         <i class="icofont-dice-multiple"></i>
                       </div>
-                      <h3 class="m-15px-b">Motivation</h3>
+                      <h3 class="m-15px-b">Fantasy</h3>
                       <p>
-                        Lorem ipsum dolor sit amet ametus conso tetur ading
-                        elitor fugit piatur iusto provid.
+                      Within the pages of this book lies a captivating blend of fantasy elements. It takes you on a journey where reality and fantasy blur.
                       </p>
                     </div>
                   </div>
@@ -346,10 +343,9 @@
                       <div class="achieve__icon m-20px-b">
                         <i class="icofont-goal"></i>
                       </div>
-                      <h3 class="m-15px-b">Goals</h3>
+                      <h3 class="m-15px-b">Romance</h3>
                       <p>
-                        Lorem ipsum dolor sit amet ametus conso tetur ading
-                        elitor fugit piatur iusto provid.
+                      At its core, it is a love story that transcends time and space. The romance genre weaves together tales of enduring love and poignant loss.
                       </p>
                     </div>
                   </div>
@@ -365,10 +361,9 @@
                       <div class="achieve__icon m-20px-b">
                         <i class="icofont-brand-target"></i>
                       </div>
-                      <h3 class="m-15px-b">Vision</h3>
+                      <h3 class="m-15px-b">Mystery</h3>
                       <p>
-                        Lorem ipsum dolor sit amet ametus conso tetur ading
-                        elitor fugit piatur iusto provid.
+                      Mystery is an integral part of this book's narrative. Readers will be immersed in a web of secrets, ancient prophecies, and enigmatic clues spanning centuries. 
                       </p>
                     </div>
                   </div>
@@ -1054,7 +1049,7 @@
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  Learn about the book writer
+                Get To Know The Book Writer
                 </h2>
                 <div
                   class="section-divider divider-traingle"
@@ -1103,11 +1098,7 @@
               data-aos-delay="200"
             >
               <p>
-                Based on wikipedia, Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Optio aspernatur quam in nostrum aliquam
-                eligendi vel, modi cupiditate numquam officiis dicta minima
-                placeat nulla impedit voluptatum adipisci beatae. Rerum,
-                impedit.
+              Meet Lerric Odd Cooksey, a firm believer in living life with purpose and allowing the essence of one's soul to flourish. With "Four Souls: Captured Inside the Fifth Dimension," he brings you a profound gift of life, a captivating odyssey that will transport you to uncharted territories of imagination and introspection.
               </p>
               <div class="authorv2__content">
                 <div class="authorv2__list">
@@ -1839,7 +1830,7 @@
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  What people said about my books
+                Read What People Most Like About the Book!
                 </h2>
                 <div
                   class="section-divider divider-traingle"
@@ -1867,11 +1858,9 @@
                           <i class="icofont-quote-right"></i>
                         </div>
                         <p class="my-4">
-                          " Lorem ipsum dolor sit, amet consectetur adipisicing
-                          elit. Dolor neque molestiae distinctio, voluptatum
-                          suscipit in, reiciendis, dolores enim optio corporis
-                          maxime impedit rerum iure illum quae iusto obcaecati
-                          quod laboriosam? "
+                          
+"As a lover of science fiction, 'Four Souls: Captured Inside the Fifth Dimension' blew me away. The futuristic technology and cosmic exploration had me hooked from the first page. It's a thrilling adventure into the unknown that every sci-fi fan should experience."
+
                         </p>
                         <div class="testi-card__user-info pt-4">
                           <div class="testimonial__user-info__image">
@@ -1881,8 +1870,7 @@
                             />
                           </div>
                           <div class="testimonial__user-info__content">
-                            <h4 class="mb-0">Brightlight books</h4>
-                            <p class="mb-0">Ubold Customer</p>
+                            <h4 class="mb-0">Gary Lu</h4>
                           </div>
                         </div>
                       </div>
@@ -1902,11 +1890,7 @@
                           <i class="icofont-quote-right"></i>
                         </div>
                         <p class="my-4">
-                          " Lorem ipsum dolor sit, amet consectetur adipisicing
-                          elit. Dolor neque molestiae distinctio, voluptatum
-                          suscipit in, reiciendis, dolores enim optio corporis
-                          maxime impedit rerum iure illum quae iusto obcaecati
-                          quod laboriosam? "
+                        "I love a good mystery, and this book delivered in spades. The intricate web of secrets and clues kept me guessing until the very end. 'Four Souls' is a must-read for mystery buffs."
                         </p>
                         <div class="testi-card__user-info pt-4">
                           <div class="testimonial__user-info__image">
@@ -1916,8 +1900,8 @@
                             />
                           </div>
                           <div class="testimonial__user-info__content">
-                            <h4 class="mb-0">Brightlight books</h4>
-                            <p class="mb-0">Ubold Customer</p>
+                            <h4 class="mb-0">Emma Silvia</h4>
+                            <!-- <p class="mb-0">Ubold Customer</p> -->
                           </div>
                         </div>
                       </div>
@@ -1937,11 +1921,7 @@
                           <i class="icofont-quote-right"></i>
                         </div>
                         <p class="my-4">
-                          " Lorem ipsum dolor sit, amet consectetur adipisicing
-                          elit. Dolor neque molestiae distinctio, voluptatum
-                          suscipit in, reiciendis, dolores enim optio corporis
-                          maxime impedit rerum iure illum quae iusto obcaecati
-                          quod laboriosam? "
+                        "This book is a magical escape into a world where fantasy and reality intertwine. The mythical creatures and otherworldly realms are enchanting. I couldn't put it down, and I can't wait to reread it."
                         </p>
                         <div class="testi-card__user-info pt-4">
                           <div class="testimonial__user-info__image">
@@ -1951,8 +1931,8 @@
                             />
                           </div>
                           <div class="testimonial__user-info__content">
-                            <h4 class="mb-0">Brightlight books</h4>
-                            <p class="mb-0">Ubold Customer</p>
+                            <h4 class="mb-0">Michael Jonathan</h4>
+                            <!-- <p class="mb-0">Ubold Customer</p> -->
                           </div>
                         </div>
                       </div>
@@ -1972,11 +1952,7 @@
                           <i class="icofont-quote-right"></i>
                         </div>
                         <p class="my-4">
-                          " Lorem ipsum dolor sit, amet consectetur adipisicing
-                          elit. Dolor neque molestiae distinctio, voluptatum
-                          suscipit in, reiciendis, dolores enim optio corporis
-                          maxime impedit rerum iure illum quae iusto obcaecati
-                          quod laboriosam? "
+                        "The love stories in this book are incredibly touching. I found myself completely engrossed in the characters' emotions and connections that transcend time and space. It's a romance like no other."
                         </p>
                         <div class="testi-card__user-info pt-4">
                           <div class="testimonial__user-info__image">
@@ -1986,8 +1962,8 @@
                             />
                           </div>
                           <div class="testimonial__user-info__content">
-                            <h4 class="mb-0">Brightlight books</h4>
-                            <p class="mb-0">Ubold Customer</p>
+                            <h4 class="mb-0">Maureen Figma</h4>
+                            <!-- <p class="mb-0">Ubold Customer</p> -->
                           </div>
                         </div>
                       </div>
@@ -2429,9 +2405,7 @@
                   </div>
                   <div class="text">
                     <p>
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                      Magni minima esse quos voluptatem quo consequuntur commodi
-                      eius sed. Alias, quisquam?
+                    Lerric Odd Cooksey is a firm believer in living life with purpose. His writing journey began in his late twenties, as he ventured into the realm of storytelling, weaving together fragments of love stories and mysteries.
                     </p>
                   </div>
                 </div>
@@ -2514,8 +2488,7 @@
                   </div>
                   <div class="text">
                     <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestias, omnis?
+                    Stay connected with and be part of my literary community. Don't miss out on the latest news and updates.
                     </p>
                   </div>
                   <form action="assets/subscribe/subscribe.php" id="subscribe">
