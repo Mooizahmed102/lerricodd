@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!--====== Title ======-->
-    <title>Wonted - Book and publisher landing page</title>
+    <title>Lerric Odd - Book and publisher landing page</title>
     <!-- ========== Favicon Ico ========== -->
     <link rel="icon" href="assets/images/favicon.ico" />
     <!-- Headings font -->
@@ -77,8 +77,8 @@
           <div class="row">
             <nav class="navbar navbar-expand-lg">
               <a class="navbar-brand" href="index.html">
-                <!-- <h1 class="m-0">WONTED</h1> -->
-                <img src="assets/images/wonted-logo.png" alt="Wonted" />
+                <!-- <h1 class="m-0">Lerric Odd</h1> -->
+                <img src="assets/images/Lerric Odd-logo.png" alt="Lerric Odd" />
               </a>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul id="onepage-nav" class="navbar-nav menu ms-lg-auto">
@@ -1890,7 +1890,7 @@
                 <div class="footer__topv2__about">
                   <div class="logo">
                     <img
-                      src="assets//images/wonted-logo.png"
+                      src="assets//images/Lerric Odd-logo.png"
                       alt="Footer Logo"
                     />
                   </div>
@@ -1946,7 +1946,7 @@
                     </li>
                     <li>
                       <i class="icofont-email"></i
-                      ><a mailto="wonted@gmail.com">wonted@gmail.com</a>
+                      ><a mailto="Lerric Odd@gmail.com">Lerric Odd@gmail.com</a>
                     </li>
                     <li>
                       <i class="icofont-phone"></i

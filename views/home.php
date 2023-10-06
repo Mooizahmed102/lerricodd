@@ -7,7 +7,7 @@
     <!--====== Title ======-->
     <title>Lerric Odd</title>
     <!-- ========== Favicon Ico ========== -->
-    <link rel="icon" href="assets/images/favicon.ico" />
+    <link rel="icon" href="favicon.png" />
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap"
       rel="stylesheet"
@@ -71,9 +71,9 @@
         <div class="container">
           <div class="row">
             <nav class="navbar navbar-expand-lg">
-              <a class="navbar-brand" href="index.html">
-                <!-- <h1 class="m-0">WONTED</h1> -->
-                <img src="assets/images/" alt="" />
+              <a class="navbar-brand" href="/">
+                <!-- <h1 class="m-0">Lerric Odd</h1> -->
+                <img src="assets/images/logo.png" alt="" />
               </a>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul id="onepage-nav" class="navbar-nav menu ms-lg-auto">
@@ -1117,7 +1117,7 @@
                     </div>
                     <div class="col-6 mb-3">
                       <h4>Email ID:</h4>
-                      <p class="mb-0">info@wonted.com</p>
+                      <p class="mb-0">info@Lerric Odd.com</p>
                     </div>
                     <div class="col-6 mb-3">
                       <h4>Languages:</h4>
@@ -2399,7 +2399,7 @@
                 <div class="footer__topv2__about">
                   <div class="logo">
                     <img
-                      src="assets//images/"
+                      src="assets//images/logo.png"
                       alt="Footer Logo"
                     />
                   </div>
@@ -2410,7 +2410,7 @@
                   </div>
                 </div>
               </div>
-              <div
+              <!-- <div
                 class="col-md-6 col-lg-3 mb-4 mb-lg-0"
                 data-aos="fade-up"
                 data-aos-duration="1000"
@@ -2435,7 +2435,7 @@
                     </li>
                   </ul>
                 </div>
-              </div>
+              </div> -->
               <div
                 class="col-md-6 col-lg-3 mb-4 mb-lg-0"
                 data-aos="fade-up"
@@ -2453,7 +2453,7 @@
                     </li>
                     <li>
                       <i class="icofont-email"></i
-                      ><a mailto="wonted@gmail.com">wonted@gmail.com</a>
+                      ><a mailto="Lerric Odd@gmail.com">Lerric Odd@gmail.com</a>
                     </li>
                     <li>
                       <i class="icofont-phone"></i
@@ -2549,8 +2549,7 @@
             <div class="row">
               <div class="col-12">
                 <p class="m-0 text-center">
-                  &copy; 2022 All right reserved. Made with
-                  <i class="icofont-heart"></i> by <a href="#">ThemeAtelier</a>
+                  &copy; 2023 All right reserved. LERRIC ODD
                 </p>
               </div>
             </div>

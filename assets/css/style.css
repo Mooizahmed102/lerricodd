@@ -484,12 +484,13 @@ blockquote {
       opacity: 1;
       bottom: 0px; }
   .header .navbar-expand-lg {
-    background-color: #00000045;
+    background-color: #000000ae;
     display: flex;
     justify-content: space-between;
     align-items: center;
     transition: 0.4s;
     box-shadow: 2px 10px 40px 20px #2b0203;
+    border-radius: 8px;
   }
   .navbar_fixed .navbar-expand-lg {
     background-color: #000000;
@@ -1097,6 +1098,7 @@ blockquote {
       background-color: #001a35!important;
       box-shadow: 3px 3px #fcb0b4; }
   .achieve__content__item p {
+    font-size: 14px;
     margin-bottom: 0; }
 
 .achieve__image--wrap .achieve__img img {
@@ -2570,3 +2572,45 @@ p.first-letter::first-letter {
           left: -28px;
         }
       }
+      .navbar-brand img {
+        width: 63px;
+        height: 72px;
+    }
+    .ctav5__content p{
+      color: #fff;
+    }
+    .footer__topv2__about img{
+      max-width: 100px;
+    }
+    .footer__topv2__about p{
+      font-size: 13px;
+    }
+    /* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #034A96;
+  border-radius: 8px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #034A96;
+}
+.footer .row{
+  justify-content: space-around;
+}
+@media(max-width:800px){
+  .section-padding .ctav5{
+    display: none;
+  }
+
+}
