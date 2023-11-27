@@ -50,15 +50,15 @@
   };
 
   /******************** 4.FIXED HEADER ********************/
-  PATH.HeaderFixed = function () {
-    var varHeaderFix = $(window).scrollTop() >= 60,
-      $navbar = $(".header");
-    if (varHeaderFix) {
-      $navbar.addClass("navbar_fixed");
-    } else {
-      $navbar.removeClass("navbar_fixed");
-    }
-  };
+  // PATH.HeaderFixed = function () {
+  //   var varHeaderFix = $(window).scrollTop() >= 60,
+  //     $navbar = $(".header");
+  //   if (varHeaderFix) {
+  //     $navbar.addClass("navbar_fixed");
+  //   } else {
+  //     $navbar.removeClass("navbar_fixed");
+  //   }
+  // };
 
   /******************** 5.GLIGHTBOX VIDEO HERO ********************/
   PATH.videoModal = function () {
@@ -316,3 +316,28 @@
   /******************** WINDOW ON LOAD FUNCTION ********************/
   $(window).on("load", function () {});
 })(jQuery);
+
+document.addEventListener('DOMContentLoaded', function () {
+  const textEL = document.getElementById('text');
+  const speakEL = document.getElementById('speak');
+  const pauseEL = document.getElementById('pause');
+  let utterance;
+
+  speakEL.addEventListener('click', speakText);
+  pauseEL.addEventListener('click', pauseText);
+
+  function speakText() {
+    // Stop any speaking in progress
+    window.speechSynthesis.cancel();
+
+    const text = textEL.value;
+    utterance = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(utterance);
+  }
+
+  function pauseText() {
+    if (utterance) {
+      window.speechSynthesis.pause();
+    }
+  }
+});

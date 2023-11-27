@@ -67,6 +67,15 @@
       <div id="preLoader"></div>
       <!-- ========== Preloader end ========== -->
       <!-- ========== Header start ========== -->
+      <section class="header-before">
+      <div class="contaier">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+          <div id="google_translate_element"></div>
+          </div>
+        </div>
+      </div>
+      </section>
       <header class="header">
         <div class="container">
           <div class="row">
@@ -77,6 +86,7 @@
               </a>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul id="onepage-nav" class="navbar-nav menu ms-lg-auto">
+                  
                   <li class="nav-item dropdown submenu">
                     <a
                       class="nav-link active dropdown-toggle"
@@ -246,6 +256,88 @@
       </section>
       <!-- ========== Hero section end ========== -->
       <!-- ========== Achieve section start ========== -->
+      
+      <section class="book-read mt-60">
+
+      <div class="row">
+            <div class="col-xl-6 offset-xl-3 col-lg-10 offset-lg-1">
+              <div class="section-title-center text-center">
+                <span data-aos="fade-up" data-aos-duration="1000" data-aos-delay="150" class="aos-init aos-animate">Book Features</span>
+                <h2 class="display-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                Get Your Online Book
+                </h2>
+                <div class="section-divider divider-traingle aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="250"></div>
+              </div>
+            </div>
+          </div>
+
+      <div class="container">
+
+        <div class="row">
+
+        <div class="col-lg-8">
+
+
+<div class="content-container">
+	<div class="content">
+		<hr>
+		<h2>by Lerric Odd Cooksey</h2>
+
+		<h3>An Excerpt from Chapter One</h3>
+
+		<p><span>R</span>eading this book is like passing the time within endless hours, facing and defending our souls at stake. All the spirits in this book are acting in concert. </p>
+
+		<p>The fifth-dimension doorway has one entry with all the light you cannot see. Seamless tie between deciding whether someone lives or dies. The fifth dimension itself is open to unlocking countless mysteries.  
+Be kind to yourself. You're on a collision course, traveling through space and time with the "four characters." Into a forgotten old dimension behind closed doors?</p>
+
+		<p>You will be pleased to know a variety of "twelve" spirits, deliberately housed inside this book, and they searched the cosmos. For the last 13 billion years, asylum after they have escaped war in their time dimension in the interests of a temporary settlement. Opening this book and turning to a unique page will inspire a rare moment, "few and far between." A strong desire and wish for something to happen in bed! You will encounter intense physical moments from a dark entity and be pleased to accept that it is your fault. </p>
+
+		<p>Plus, one evil, cruel, dark tyrant, an entity with a false appearance of virtue. Who agrees that love is untrue and lustfulness is real? </p>
+
+		<p>These two entities will always look over one's shoulder as one way to try to anticipate a surprise in the shadows. One of the entities will have razor-edged eyes, and the other will prob your lovely body and say softly, I have a dream come true! Waiting for the opportunity to be responsible for the phenomenon to make you say. This evening, hundreds of brilliant stars have radiant energy. I must have another fictitious strong feeling of love in tonight's deadly darkness, which belongs to you. The entity softly whispers, my darling beloved, I need this romantic secret we share, a non-fatal suicidal, from ourselves for our survival even more. </p>
+
+		<p>The entities in the book are now in control as you move forward, deep inside the book's pages. This book will become fully aware that the reader chooses to be trapped in the clutches of the book, and it is their fault. A movement will occur within your "human consciousness" with a deep commitment to one spirit or entity. This book has a lovely love triangle, perhaps not to be or be with two entities. Suppose you don't perceive with caution. Something immoral will overtake you in the early dawn mornings. A minor tragedy may occur, and it could be filled with beliefs and impostors to suggest anything else but darkness and pain. 
+Please forgive the entity that exists inside this book. The chosen entities do not act hostile unless provoked; they have no choice. The entities had to enter the fifth dimension. Inside a journey only within this fifth dimension to bring a notorious entity to its knees. And search through the dark chambers that interacted with the twists and turns.</p>
+
+		<p> After a secret intimate act, the entity only has one quest to conquer the hateful devotion of intimacy toward flesh and blood. That naturally drives the twelve entities inside this book to find the most wanted "fugitive," “His lord,” who has done a great wrong for hundreds of millenniums. Throughout the universe, he has escaped from a burial chamber within the prison inside Haley’s comet. To disguise one’s intentions of himself to avoid his true identity? “his lord,” at his will, will use five names, “the no named patient,” “the precious one,” “chosen one,” and “the admirer.”</p>
+
+
+	</div>
+</div>
+        </div>
+
+          <div class="col-lg-4">
+
+          <h2 class="display-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                Play Audio
+                </h2>
+
+          <div class="book-btn">
+         
+        <textarea id="text" class="d-none">Reading this book is like passing the time within endless hours, facing and defending our souls at stake. All the spirits in this book are acting in concert. 
+The fifth-dimension doorway has one entry with all the light you cannot see. Seamless tie between deciding whether someone lives or dies. The fifth dimension itself is open to unlocking countless mysteries.  
+Be kind to yourself. You're on a collision course, traveling through space and time with the "four characters." Into a forgotten old dimension behind closed doors?
+
+You will be pleased to know a variety of "twelve" spirits, deliberately housed inside this book, and they searched the cosmos. For the last 13 billion years, asylum after they have escaped war in their time dimension in the interests of a temporary settlement. Opening this book and turning to a unique page will inspire a rare moment, "few and far between." A strong desire and wish for something to happen in bed! You will encounter intense physical moments from a dark entity and be pleased to accept that it is your fault. 
+Plus, one evil, cruel, dark tyrant, an entity with a false appearance of virtue. Who agrees that love is untrue and lustfulness is real? 
+These two entities will always look over one's shoulder as one way to try to anticipate a surprise in the shadows. One of the entities will have razor-edged eyes, and the other will prob your lovely body and say softly, I have a dream come true! Waiting for the opportunity to be responsible for the phenomenon to make you say. This evening, hundreds of brilliant stars have radiant energy. I must have another fictitious strong feeling of love in tonight's deadly darkness, which belongs to you. The entity softly whispers, my darling beloved, I need this romantic secret we share, a non-fatal suicidal, from ourselves for our survival even more. 
+The entities in the book are now in control as you move forward, deep inside the book's pages. This book will become fully aware that the reader chooses to be trapped in the clutches of the book, and it is their fault. A movement will occur within your "human consciousness" with a deep commitment to one spirit or entity. This book has a lovely love triangle, perhaps not to be or be with two entities. Suppose you don't perceive with caution. Something immoral will overtake you in the early dawn mornings. A minor tragedy may occur, and it could be filled with beliefs and impostors to suggest anything else but darkness and pain. 
+Please forgive the entity that exists inside this book. The chosen entities do not act hostile unless provoked; they have no choice. The entities had to enter the fifth dimension. Inside a journey only within this fifth dimension to bring a notorious entity to its knees. And search through the dark chambers that interacted with the twists and turns.
+ After a secret intimate act, the entity only has one quest to conquer the hateful devotion of intimacy toward flesh and blood. That naturally drives the twelve entities inside this book to find the most wanted "fugitive," “His lord,” who has done a great wrong for hundreds of millenniums. Throughout the universe, he has escaped from a burial chamber within the prison inside Haley’s comet. To disguise one’s intentions of himself to avoid his true identity? “his lord,” at his will, will use five names, “the no named patient,” “the precious one,” “chosen one,” and “the admirer.”</textarea>
+        <button class="btn" id="speak">Start Demo</button>
+        <button class="btn" id="pause">Stop</button>
+        </div>
+
+        <h4 class="m-15px-b">To get full version click below</h4>
+        <a href="#contact" class="smooth button button__primary aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="250"><span>Buy Now</span></a>
+          </div>
+
+        </div>
+
+      </div>
+
+      </section>
+
       <section id="benefits" class="achieve section-padding">
         <div class="container">
           <div class="row">
@@ -2578,6 +2670,15 @@
     <script src="assets/js/aos.js"></script>
     <!--====== Custom js ======-->
     <script src="assets/js/custom.js"></script>
+
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+    }
+  </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
     <script>
       $(document).ready(function() {
 
